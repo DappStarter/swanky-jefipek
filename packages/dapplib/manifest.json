@@ -1,0 +1,10 @@
+{
+    "name": "Arkane Demo",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "multiple"
+    }
+}
